@@ -12,18 +12,7 @@
 
 ---
 
-## 🌐 Live Access Links & Video Showcase Download
 
-| Resource | Access Link | Description |
-|---|---|---|
-| 🌍 **Public Multi-Device Link** | [https://moments-matched-feb-hiv.trycloudflare.com](https://moments-matched-feb-hiv.trycloudflare.com) | Live public tunnel accessible on any laptop, tablet, or smartphone across external networks |
-| 📊 **Hackathon Presentation (PPTX)** | [Download Pitch Deck (PPTX)](https://moments-matched-feb-hiv.trycloudflare.com/ARES_Hackathon_Presentation.pptx) · [Local](/ARES_Hackathon_Presentation.pptx) | Complete 12-slide widescreen PowerPoint pitch deck for hackathon submission with embedded screenshots |
-| 🎬 **Feature Video Showcase (MP4)** | [Download 1080p Video](/ares-showcase.mp4) · [Public Link](https://moments-matched-feb-hiv.trycloudflare.com/ares-showcase.mp4) | Complete 1080p 60fps walkthrough demonstrating all features, rover imagery, data layers, and HUD |
-| 💻 **Local Production Preview** | [http://localhost:4173/](http://localhost:4173/) | Optimized production build served locally on port 4173 |
-| ⚡ **Local Dev Server** | [http://localhost:5173/](http://localhost:5173/) | Vite development server with Hot Module Replacement (HMR) |
-| 🛰️ **Ares Node.js Backend** | [http://localhost:3001/](http://localhost:3001/) | Telemetry, CORS-free image streaming, and planetary search service |
-
----
 
 ## 🎬 Video Feature Showcase
 
