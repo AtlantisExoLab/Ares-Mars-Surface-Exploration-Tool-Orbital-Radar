@@ -16,10 +16,6 @@
 
 ## 🎬 Video Feature Showcase
 
-A high-definition 1080p video showcase is bundled with the application and can be downloaded or played directly:
-
-- **Direct Download Link:** [`/ares-showcase.mp4`](https://hosts-achieve-hazards-academic.trycloudflare.com/ares-showcase.mp4) (Size: ~15 MB, Format: H.264 MP4 with web-optimized `faststart`)
-- **In-App Viewer:** Accessible directly within the application under **Settings & About (⚙️) ➔ "Full Application Video Showcase"** with 1-click Play and Download buttons.
 - **Showcase Chapters Included in the Video:**
   1. `00:00` — **Cinematic 3D Mars Globe & Starfield Skybox**: Viking MDIM 2.1 4K true-color basemap, Mars 2000 ellipsoid rotation, and deep space nebula backdrop.
   2. `00:15` — **Real-Time Telemetry & Search Autocomplete**: Mars Sol Date (MSD), Solar Longitude ($L_s$), local rover solar clocks (Percy & Curio LMST), and search jump to Olympus Mons.
