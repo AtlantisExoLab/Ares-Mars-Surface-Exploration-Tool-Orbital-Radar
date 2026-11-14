@@ -16,6 +16,7 @@
 
 ## 🎬 Video Feature Showcase
 
+Video Link- https://drive.google.com/file/d/1vVC8pcrsXR65DzRomneVnwdnC-NKCyIs/view?usp=drive_link
 - **Showcase Chapters Included in the Video:**
   1. `00:00` — **Cinematic 3D Mars Globe & Starfield Skybox**: Viking MDIM 2.1 4K true-color basemap, Mars 2000 ellipsoid rotation, and deep space nebula backdrop.
   2. `00:15` — **Real-Time Telemetry & Search Autocomplete**: Mars Sol Date (MSD), Solar Longitude ($L_s$), local rover solar clocks (Percy & Curio LMST), and search jump to Olympus Mons.
